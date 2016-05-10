@@ -7,9 +7,7 @@
 # this will unpack kernel.sin to zImage and ramdisk
 #
 # Supported Devices:
-# Xperia X10 (GB update, custom kernels for unlocked bootloaders)
-# Xperia 2011, 2012, 2013 H1 devices
-# Xperia 2013 H2 devices onwards with dt.img extraction support
+# Xperia devices with Marshmallow firmware
 
 use strict;
 use bytes;
